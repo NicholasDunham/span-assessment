@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPAN Digital Writing Assessment</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on SPAN Digital Writing Assessment</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Template Footer</copyright>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Best Practice</title>
+      <link>//localhost:1313/best-practices/practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/best-practices/practice/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Hello &lt;strong&gt;world&lt;/strong&gt;!&lt;/em&gt;&#xA;Testing different formats:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This is italic&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is a table&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;One&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Two&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Three&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Four&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Five&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Six&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Image goes here:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Glossary Term</title>
+      <link>//localhost:1313/glossary/term/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/glossary/term/</guid>
+      <description>&lt;p&gt;This is a glossary term&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Key Concept</title>
+      <link>//localhost:1313/key-concepts/concept/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/key-concepts/concept/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Prerequisite</title>
+      <link>//localhost:1313/prerequisites/prerequisite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/prerequisites/prerequisite/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Recipe</title>
+      <link>//localhost:1313/recipes/recipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/recipes/recipe/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Reference</title>
+      <link>//localhost:1313/reference/reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reference/reference/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Tool</title>
+      <link>//localhost:1313/tools/tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tools/tool/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An Update</title>
+      <link>//localhost:1313/updates/update/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/updates/update/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started</title>
+      <link>//localhost:1313/getting-started/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/getting-started/getting-started/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello Presidium!</title>
+      <link>//localhost:1313/overview/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/overview/hello/</guid>
+      <description>&lt;p&gt;This template project provides a basic structure to start your presidium documentation.&lt;/p&gt;&#xA;&lt;p&gt;For recipes and help on creating your content, see: &lt;a href=&#34;http://presidium.spandigital.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presidium.spandigital.net&lt;/a&gt;&#xA;for detailed examples.&lt;/p&gt;&#xA;&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;my-table&#34;&gt;My Table&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;One&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Two&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Three&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

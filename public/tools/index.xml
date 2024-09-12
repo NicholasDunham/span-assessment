@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on SPAN Digital Writing Assessment</title>
+    <link>//localhost:1313/tools/</link>
+    <description>Recent content in Tools on SPAN Digital Writing Assessment</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Template Footer</copyright>
+    <atom:link href="//localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Tool</title>
+      <link>//localhost:1313/tools/tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tools/tool/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
